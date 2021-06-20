@@ -210,16 +210,16 @@ footer{
 }
 @media (max-width: 1040px){
 	.sec-home{
-		height: 950px;
+		height: 400px;
 	}
 	.row{
 		padding-top: 150px;
 	}
 	.header{
-		height: 140px;
+		height: 50px;
 	}
 	.header a{
-		font-size: 3rem;
+		font-size: 1rem;
 	}
 	.sec-home img{
 		display: none;
@@ -250,10 +250,10 @@ footer{
 		left: 0;
 	}
 	.topic{
-		font-size: 2.9rem;
+		font-size: 2.0rem;
 	}
 	.topic-ad{
-		font-size: 2.3rem;
+		font-size: 2.0rem;
 	}
 	.t-home{
 		font-size: 2.0rem;
