@@ -41,7 +41,7 @@ header{
 	z-index: 12;
 }
 #header {position: fixed;background-color: #1bc50cb0; }
-.header-diferente {background-color: #0054a8;}
+.header-diferente {background-color: #1bc50cb0;}
 .menu{
 	display: flex;
 	margin-right: 30px;
