@@ -1,3 +1,3 @@
 # Champions-Board
  
-http://campeoesdls.com/
+https://ruancarreirogomes.github.io/Champions-Board/
