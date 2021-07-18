@@ -151,14 +151,14 @@ nav ul li{
 	background: #00bfff;
  }
  #slides .slide_2 {
-	background: white;
+	background: yellow;
         color: black;
  }
  #slides .slide_3 {
 	background: red;
  }
  #slides .slide_4 {
-	background: #c3d100;
+	background: yellow;
  }
  #controls {
 	margin: -180px 0 0 0;
