@@ -149,6 +149,7 @@ nav ul li{
  }
  #slides .slide_1 {
 	background: yellow;
+        color: black;
  }
  #slides .slide_2 {
 	background: red;
