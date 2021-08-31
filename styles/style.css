@@ -211,7 +211,7 @@ hr{
 	margin: 30px;
 }
 .champ-info div h3:hover{
-	color: #1bc50cb0;
+	color: black;
 	cursor: pointer;
 }
 .champ-info h3{
@@ -300,7 +300,7 @@ footer{
 		position: fixed;
 		width: 70%;
 		height: 190vh;
-		background: #1bc50cb0;
+		background: #af7407a1;
 		top: 90px;
 		left: -100%;
 		text-align: center;
