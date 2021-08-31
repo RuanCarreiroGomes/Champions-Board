@@ -28,7 +28,7 @@ header a{
 	font-weight: bold;
 }
 header a:hover{
-	color: #053a7086;
+	color: black;
 }
 header{
 	display: flex;
@@ -40,8 +40,8 @@ header{
 	position: fixed;
 	z-index: 12;
 }
-#header {position: fixed;background-color: #1bc50cb0; }
-.header-diferente {background-color: #1bc50cb0;}
+#header {position: fixed;background-color: #af7407a1; }
+.header-diferente {background-color: #af7407a1;}
 .menu{
 	display: flex;
 	margin-right: 30px;
@@ -74,14 +74,15 @@ nav ul li{
     Home Section --------------------------
 */
 .sec-home{
-	background-color: #002850;
+	background-color: black;
 	height: 550px;
 	padding: 60px;
 	z-index: 11;
     border-bottom-width: 3px;
-    border-bottom-color: #1bc50cb0;
+    border-bottom-color: #af7407;
     border-bottom-style: solid;
 }
+
 .row{
 	padding-top: 90px;
 }
@@ -115,12 +116,12 @@ nav ul li{
 	margin: 30px;
 }
 .champact div h3:hover{
-	color: #1bc50cb0;
+	color: #af7407;
 	cursor: pointer;
 }
 .champact h3{
 	font-size: 1.0rem;
-	color: #0054a8;
+	color: #af7407;
 	text-align: center;
 	margin: 10px;
 }
@@ -185,19 +186,19 @@ nav ul li{
 .topic{
 	font-family: "Jost", sans-serif;
 	font-size: 32px;
-	color: #002850;
+	color: black;
 	font-weight: bold;
 	text-align: center;
 	margin: 30px;
 	margin-top: 80px;
 }
 hr{
-	border-color: #1bc50cb0;
+	border-color: #af7407;
 	margin-left: 30%;
 	margin-right: 30%;
 }
 .topic-ad{
-	color: #1bc50cb0;
+	color: #af7407;
 	text-align: center;
 	margin: 10px;
     margin-top: 50px;
@@ -272,9 +273,9 @@ img{
 }
 
 footer{
-	background-color: #002850;
+	background-color: black;
 	border-top-width: 3px;
-    border-top-color: #1bc50cb0;
+    border-top-color: #af7407;
     border-top-style: solid;
 	height: 200px;
 }
@@ -292,7 +293,7 @@ footer{
 		font-size: 1.5rem;
 	}
 	.sec-home img{
-		display: none;
+		
 	}
 	.checkbtn{
 		display: block;
