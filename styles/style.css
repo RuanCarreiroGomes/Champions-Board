@@ -281,7 +281,7 @@ footer{
 }
 @media (max-width: 1040px){
 	.sec-home{
-		height: 400px;
+		height: 450px;
 	}
 	.row{
 		padding-top: 150px;
@@ -292,9 +292,7 @@ footer{
 	.header a{
 		font-size: 1.5rem;
 	}
-	.sec-home img{
-		
-	}
+	
 	.checkbtn{
 		display: block;
 	}
