@@ -142,19 +142,19 @@ nav ul li{
 	color: white;
 }
 .supercopa{
-	background-color: blue;
-	color: white;
-}
-.copadobrasil{
 	background-color: red;
 	color: white;
 }
+.copadobrasil{
+	background-color: green;
+	color: white;
+}
 .liga1{
-	background-color: blue;
+	background-color: red;
 	color: white;
 }
 .liga2{
-	background-color: black;
+	background-color: blue;
 	color: white;
 }
 .champions-container h1{
