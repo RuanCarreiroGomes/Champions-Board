@@ -283,6 +283,7 @@ footer{
     border-top-color: #af7407;
     border-top-style: solid;
 	height: 200px;
+	bottom: 100%;
 }
 footer .champ-container img{
 	width: 100px;
