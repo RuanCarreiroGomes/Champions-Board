@@ -232,6 +232,7 @@ hr{
 	background-color: white;
 	border-radius: 10px;
     align-items: center;
+	margin: 0 auto;
     padding: 5px;
 }
 .champ-container p{
@@ -282,6 +283,9 @@ footer{
     border-top-color: #af7407;
     border-top-style: solid;
 	height: 200px;
+}
+footer .champ-container img{
+	width: 100px;
 }
 @media (max-width: 1040px){
 	.sec-home{
