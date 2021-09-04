@@ -129,6 +129,10 @@ nav ul li{
 	flex: 1 1 100px;
 	margin: 20px 10px; 
 }
+.mundial{
+        background-color: red;
+	color: white;
+}
 .libertadores{
 	background-color: black;
 	color: white;
