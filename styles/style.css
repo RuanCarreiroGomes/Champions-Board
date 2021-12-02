@@ -129,16 +129,20 @@ nav ul li{
 	flex: 1 1 100px;
 	margin: 20px 10px; 
 }
+.mundial{
+        background-color: black;
+	color: white;
+}
 .libertadores{
-	background-color: green;
+	background-color: yellow;
 	color: white;
 }
 .recopa{
-	background-color: green;
+	background-color: yellow;
 	color: white;
 }
 .sulamericana{
-	background-color: blue;
+	background-color: green;
 	color: white;
 }
 .supercopa{
@@ -150,15 +154,15 @@ nav ul li{
 	color: white;
 }
 .interestadual{
-	background-color: red;
+	background-color: blue;
 	color: white;
 }
 .liga1{
-	background-color: red;
+	background-color: yellow;
 	color: white;
 }
 .liga2{
-	background-color: blue;
+	background-color: yellow;
 	color: white;
 }
 .champions-container h1{
