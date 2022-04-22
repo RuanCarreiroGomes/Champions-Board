@@ -250,7 +250,7 @@ hr{
 	font-size: 2rem;
 	color: #0054a8;
 }
-img{
+.logotimes{
 	width: 200px;
 	margin: 0 auto;
 	display: block;
@@ -258,6 +258,9 @@ img{
 
 .sobre{
 	padding-bottom: 40px;
+}
+.sobre img{
+	margin: 30px;
 }
 .sobre p{
 	display: block;
@@ -283,6 +286,7 @@ img{
 
 footer{
 	background-color: black;
+	color: white;
 	border-top-width: 3px;
     border-top-color: #af7407;
     border-top-style: solid;
@@ -338,11 +342,14 @@ footer .champ-container img{
 		font-size: 2.0rem;
 	}
 	.t-home{
-		font-size: 2.0rem;
+		font-size: 1.5rem;
 	}
 	.sobre p{
 		width: 80%;
 		font-size: 1.0rem;
+	}
+	.sobre img{
+		width: 60%;
 	}
 	.tech{
 		padding: 20px;
